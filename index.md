@@ -6,5 +6,5 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
-[] diaz
-[] step 2
+-[X] diaz
+-[X] step 2
